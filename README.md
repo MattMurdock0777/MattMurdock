@@ -2,12 +2,10 @@
 <h1 align="center">Hi 👋, I'm BruceWayne</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img allign="right" alt="Coding" width="400" src="https://steemitimages.com/p/FxX5caie56yqUbvo2DTJv1i6qm8z4ixTabBTrjodAzgKy8UJSsW1RbmPqDmkiuDCbCXv6quz3kn91v2hjL491Dwjf8EuR93dc3VU4ptawh65?format=match&mode=fit">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattmurdock&label=Profile%20views&color=0e75b6&style=flat" alt="mattmurdock" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattmurdock" alt="mattmurdock" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mathewmurdock007" target="blank"><img src="https://img.shields.io/twitter/follow/mathewmurdock007?logo=twitter&style=for-the-badge" alt="mathewmurdock007" /></a> </p></p>
 
-<p align="left"> <a href="https://twitter.com/mathewmurdock007" target="blank"><img src="https://img.shields.io/twitter/follow/mathewmurdock007?logo=twitter&style=for-the-badge" alt="mathewmurdock007" /></a> </p>
 
 - 🔭 I’m currently working on **Wayne Tech**
 
